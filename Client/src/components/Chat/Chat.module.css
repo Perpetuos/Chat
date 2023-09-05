@@ -1,0 +1,35 @@
+.chat-container{
+
+  font-size: 12;
+    height: 600px;
+    width: 400px;
+    background-color: #171d26;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.3);
+      box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.3);
+  }
+  h2{
+    
+    text-align: center;
+  }
+  .chat-body{
+    padding-top: 10px;
+    
+  }
+  
+  .message-container{
+
+    padding-top: 10%;
+    background-color: rgba(61, 62, 62, 0.394);
+    height: 445px;
+    width: 400px;
+  }
+
+  .chat-footer{
+    height: 50px;
+    width: 400px;
+    background-color: rgba(137, 43, 226, 0.079);
+    vertical-align: middle;
+    display: table-cell;
+
+
+  }
